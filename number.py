@@ -1,5 +1,4 @@
-
-
+#The number is negative or not.
 number = input("Input your numbeer: ")
 print(number)
 
